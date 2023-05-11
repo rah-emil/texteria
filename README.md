@@ -1,0 +1,2 @@
+# texteria
+Content Editor
